@@ -1,7 +1,7 @@
 #Introduction
 
 This is a simple Todo application built off Django and React.
-
+Visual Studio Code used for this task.
 # Requirements
 * Python3
 * Pipenv
